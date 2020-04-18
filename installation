@@ -1,3 +1,7 @@
+install npm - install nodejs -install nodemon
+
+
+
 
  1856  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
  1857  sudo apt-get install -y nodejs
