@@ -2,7 +2,7 @@ install npm - install nodejs -install nodemon
 install bcrypt for password encryption
 install jsonwebtoken for authentication
 install expressjs with some view -->> take guidance from expressjs documentation
-install mogoose -->>install mongo compass --->> deb file from oficiail page-->> go i downlaoded directory and ope terminal--->>sudo apt install ./name.deb
+install mogoose -->>install mongo compass --->> deb file from oficiail page-->> go i downlaoded directory and ope terminal--->>sudo apt install ./name.deb--->> create online monogdb atlas account----> create a new cluster there --->> connect it to local mongo compass via given url.----->>>> Done. You will see database locally.
 
 
 
