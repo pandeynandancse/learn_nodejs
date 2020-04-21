@@ -1,4 +1,8 @@
 install npm - install nodejs -install nodemon
+install bcrypt for password encryption
+install jsonwebtoken for authentication
+install expressjs with some view -->> take guidance from expressjs documentation
+install mogoose -->>install mongo compass --->> deb file from oficiail page-->> go i downlaoded directory and ope terminal--->>sudo apt install ./name.deb
 
 
 
